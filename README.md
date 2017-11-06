@@ -1,2 +1,0 @@
-# mikelpzm.github.io
-Blog
