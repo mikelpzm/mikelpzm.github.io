@@ -1,3 +1,7 @@
-## Primer post
+---
+layout: post
+title: "Primer post"
+date: 2017-11-06
+---
 
-OK!
+Primer post del blog.
