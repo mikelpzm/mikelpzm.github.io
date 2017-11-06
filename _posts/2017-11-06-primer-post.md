@@ -1,7 +1,3 @@
----
-layout: post
-title: "Primer post"
-date: 2017-11-06
----
+## Bienvenidos
 
-Primer post del blog.
+Hablaremos de surf, comida, ocio...
